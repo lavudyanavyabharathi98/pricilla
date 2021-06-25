@@ -6,9 +6,9 @@
 }
 body {
   background-image: url("images.jpeg");
-
-  background-size: 700px;
-  background-repeat: no-repeat;
+height:100%;
+  background-size: 500px;
+  background-repeat: repeat;
   box-sizing: border-box;
 }
 header{
